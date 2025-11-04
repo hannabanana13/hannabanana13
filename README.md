@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Hanna!
+I am currently a sophomore studying Aerospace Engineering at the University of Michigan.
 
 <!--
 **hannabanana13/hannabanana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
